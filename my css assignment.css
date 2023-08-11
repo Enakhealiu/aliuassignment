@@ -1,0 +1,14 @@
+.ronaldo{
+    height: 767px;
+    width: 1590px;
+    border-radius: 30px;
+    background-color:  #FFE5B4;
+    border: dashed;
+}
+.ronaldo .boredom{
+    border-radius: 30px;
+    border: dashed;
+    height: 383.5px;
+    width: 795;
+}
+
